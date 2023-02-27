@@ -16,6 +16,7 @@ return {
     "divide",
     "fill",
     "from",
+    "ring",
     "shadow",
     "stroke",
     "text",
